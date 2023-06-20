@@ -1,0 +1,3 @@
+#Available scripts
+
+npm start
